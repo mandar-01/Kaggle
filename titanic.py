@@ -1,3 +1,4 @@
+#Accuracy = 80.382%
 import pandas as pd
 import string
 from sklearn import svm
